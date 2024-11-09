@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/pkkalive/namaste-react/issues"
   },
-  "homepage": "https://github.com/pkkalive/namaste-react#readme"
+  "homepage": "https://github.com/pkkalive/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
 }
